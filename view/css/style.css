@@ -1,0 +1,48 @@
+
+header {
+	border-bottom: 1px solid #888;
+	box-shadow: 0 0 2px 1px rgba(0,0,0,0.3);
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.control-label {
+	padding-top:6px;
+}
+
+.tsTitle {
+	padding-top: 3px;
+}
+.tsTitle a {
+	font-size: 18px;
+	text-shadow: 0 0 1px rgba(0,0,0,0.5);
+}
+
+.userZone {
+	
+}
+.userZone span {
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	padding-right: 20px;
+}
+.userZone span:after {
+	content: '';
+	position: absolute;
+	z-index: 2;
+	display: block;
+	border-right: 1px solid #000;
+	width: 0;
+	height: 20px;
+	right: 10px;
+	top: 50%;
+	margin-top: -10px;
+}
+.p404{
+	padding-top: 20px;
+	font-size: 24px;
+}
+
+td.status span + .fa {
+	
+}

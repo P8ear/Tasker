@@ -1,0 +1,6 @@
+2020-07-01 19:44:38 - PHP Notice:  Undefined variable: data in D:\_O-S\OpenServer\domains\task.tut\model\task.php on line 43
+2020-07-01 19:44:38 - PHP Notice:  Undefined variable: data in D:\_O-S\OpenServer\domains\task.tut\model\task.php on line 43
+2020-07-02 12:26:26 - PHP Notice:  Undefined index: button_save in D:\_O-S\OpenServer\domains\task.tut\controller\main.php on line 29
+2020-07-02 15:23:05 - PHP Notice:  Undefined index: status in D:\_O-S\OpenServer\domains\task.tut\model\task.php on line 6
+2020-07-02 15:25:21 - PHP Notice:  Undefined index: status in D:\_O-S\OpenServer\domains\task.tut\model\task.php on line 6
+2020-07-02 15:50:45 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'edited='1'  WHERE task_id=6' at line 1<br />Error No: 1064<br />UPDATE task SET name='&lt;script&gt;alert(‘test’);&lt;/script&gt;', email='test@test.e', task='edited', status='0'  edited='1'  WHERE task_id=6 in D:\_O-S\OpenServer\domains\task.tut\lib\db.php on line 40
